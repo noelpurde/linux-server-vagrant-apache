@@ -1,0 +1,20 @@
+# Vagrant files
+.vagrant/
+Vagrantfile.lock
+
+# Logs
+*.log
+
+# SSH keys
+*.pem
+
+# VirtualBox and other VM files
+*.vbox
+*.vbox-prev
+
+# Other temporary files
+*.tmp
+*.swp
+
+# Local environment variables
+.env
