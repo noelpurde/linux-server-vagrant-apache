@@ -77,7 +77,7 @@ This project provides a streamlined setup for running a Linux-based web server u
      ```bash
      sudo apt-get install postgresql
      ```
-     Create a simple table and start testing for it to show up.
+     Create a table and start testing for it to show up on localhost.
 
 ---
 
